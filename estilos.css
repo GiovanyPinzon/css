@@ -1,12 +1,37 @@
 body {
-    color: brown;
-    font-size: 25px;
-}
-p {
-    color: steelblue;
+  font-family: sans-serif;
+  color: #263238;
 }
 
-.color {
-    color: blueviolet;
-    font-size: 12px;
+header nav ul {
+  list-style: none;
+  color: #15803d;
+}
+
+header nav ul li a {
+  color: #facc15;
+  text-decoration: none;
+}
+
+main article h2 {
+  color: #1d4ed8;
+}
+
+.btn-comprar {
+  color: white;
+  text-decoration: none;
+}
+
+#btn-destacado {
+  background-color: #dc2626;
+  color: white;
+}
+
+aside {
+  color: saddlebrown;
+}
+
+footer ul li a {
+  color: #67e8f9;
+  text-decoration: none;
 }
