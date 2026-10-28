@@ -18,13 +18,13 @@ main article h2 {
 }
 
 .btn-comprar {
-  color: white;
+  color: brown;
   text-decoration: none;
 }
 
 #btn-destacado {
   background-color: #dc2626;
-  color: white;
+  color: aqua;
 }
 
 aside {
