@@ -3,6 +3,12 @@ body {
   color: #263238;
 }
 
+header {
+  background-color: #facc15;
+  background-image: url(imagen-fondo.avif);
+  background-size: cover;
+  background-position: center;
+}
 header nav ul {
   list-style: none;
   color: #15803d;
@@ -13,6 +19,14 @@ header nav ul li a {
   text-decoration: none;
 }
 
+main {
+  background-color: #67e8f9;
+}
+main article {
+  display: block;
+  padding: 20px;
+  margin: 15px;
+}
 main article h2 {
   color: #1d4ed8;
 }
@@ -29,8 +43,12 @@ main article h2 {
 
 aside {
   color: saddlebrown;
+  background-color: #dc2626;
 }
 
+footer {
+  background-color: #15803d;
+}
 footer ul li a {
   color: #67e8f9;
   text-decoration: none;
